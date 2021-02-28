@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+
+
+h2 {
+  color: #492121;
+  font-weight: 700 !important;
+  letter-spacing: 8px !important;
+}
+
+.bg-purple {
+  background-color:#e7d1d7 !important;
+}
+
+Form {
+ margin-top: 3%;
+}
+#root, html {
+  background-color: #c8f0f1;
+  color: #ff0000;
+  font-family: 'ubuntu', Georgia, 'Times New Roman', Times, serif ;
+  font-size: 14px;
+  letter-spacing: 1px;
+  font-weight:800
+}
+.bg-orange {
+  background-color:#109703 !important;
+}
+
+::placeholder {
+  color: #000000 !important;
+  letter-spacing: 2px;
+}
+
+
+Button {
+  background-color: #0073a8 !important;
+}
+
+.list-group {
+  color: rgb(255, 0, 0) !important;
+}
+
+
